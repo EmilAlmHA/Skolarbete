@@ -1,6 +1,6 @@
 #include <stdio.h>
 // This is a comment to create discrepancy
-
+// This is to make a manual merge
 int main (void)
 {
     printf("Hello World\n");
